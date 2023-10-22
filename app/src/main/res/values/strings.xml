@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StepAppV1</string>
+    <string name="start">Start</string>
+    <string name="step_count">Step Count</string>
+    <string name="counter">0</string>
+    <string name="goal">goal</string>
+    <string name="_0">0</string>
+    <string name="steps">steps</string>
+    <string name="goal_6000">goal：6000</string>
+</resources>
